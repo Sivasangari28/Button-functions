@@ -1,0 +1,30 @@
+body{
+    text-align:left;
+    margin-top:10px;
+}
+#red{
+    padding:10px 10px;
+    border-radius: 20px;
+    
+}
+#blue{
+    padding:10px 10px;
+    border-radius: 20px;
+    
+}
+#green{
+    padding:10px 10px;
+    border-radius: 20px;
+}
+    
+   
+#reset{
+    padding:10px 10px;
+    border-radius: 20px;
+    
+    
+}
+button{
+    height:35px;
+    width: 70px;
+}
